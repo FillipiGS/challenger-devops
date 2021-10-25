@@ -1,4 +1,4 @@
-package br.com.fiap.checkpoint.controller.advice;
+package br.com.fiap.challenge.controller.advice;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,7 +1,7 @@
-package br.com.fiap.checkpoint.controller.api;
+package br.com.fiap.challenge.controller.api;
 
-import br.com.fiap.checkpoint.model.Usuario;
-import br.com.fiap.checkpoint.repository.UsuarioRepository;
+import br.com.fiap.challenge.model.Usuario;
+import br.com.fiap.challenge.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.CacheEvict;
 import org.springframework.cache.annotation.Cacheable;

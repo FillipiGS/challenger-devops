@@ -1,4 +1,4 @@
-package br.com.fiap.checkpoint.config;
+package br.com.fiap.challenge.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

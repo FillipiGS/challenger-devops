@@ -1,4 +1,4 @@
-package br.com.fiap.checkpoint.model;
+package br.com.fiap.challenge.model;
 
 import lombok.Data;
 
