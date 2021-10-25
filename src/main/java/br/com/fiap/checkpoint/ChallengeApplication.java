@@ -9,10 +9,10 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @SpringBootApplication
 @EnableCaching
 @EnableSwagger2
-public class CheckpointApplication {
+public class ChallengeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CheckpointApplication.class, args);
+		SpringApplication.run(ChallengeApplication.class, args);
 	}
 
 }
